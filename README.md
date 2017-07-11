@@ -6,6 +6,7 @@ This repo provides background information for the July 2017 story [NHS under pre
 
 ## Get the data
 
+* [NHS Digital: Attendances in 2015-16 by "disposal method"](https://github.com/BBC-Data-Unit/A-E-closures/blob/master/acci-emer-atte-eng-2015-16-data.xlsx) and [accompanying metadata](https://github.com/BBC-Data-Unit/A-E-closures/blob/master/acci-emer-atte-eng-2015-16-meta.xlsx)
 * [Excel spreadsheet: data from BBC FOI request to Weston General Hospital](https://github.com/BBC-Data-Unit/A-E-closures/blob/master/Weston%20FOI.xlsx)
 
 ## Visualisation
